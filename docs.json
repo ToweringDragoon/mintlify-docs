@@ -391,10 +391,6 @@
                                 ]
                             }
                         ]
-                    },
-                    {
-                        "tab": "MythicRPC API",
-                        "asyncapi": "mythic-docs/mythicrpc/mythicrpc-asyncapi.yaml"
                     }
                 ]
             },
