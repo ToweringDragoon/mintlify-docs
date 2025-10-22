@@ -27,57 +27,57 @@
                     {
                         "anchor": "Mythic",
                         "icon": "hydra",
-                        "href": "http://159.65.255.104:3000/mythic-docs/home"
+                        "href": "/mythic-docs/home"
                     },
                     {
                         "anchor": "Mythic Agents",
                         "icon": "swords",
-                        "href": "http://159.65.255.104:3000/mythic-agents/"
+                        "href": "/mythic-agents/"
                     },
                     {
                         "anchor": "GhostWriter",
                         "icon": "ghost",
-                        "href": "http://159.65.255.104:3000/ghostwriter-docs/home"
+                        "href": "/ghostwriter-docs/home"
                     },
                     {
                         "anchor": "Merlin",
                         "icon": "hat-wizard",
-                        "href": "http://159.65.255.104:3000/merlin-docs/introduction"
+                        "href": "/merlin-docs/introduction"
                     },
                     {
                         "anchor": "SharpSCCM",
                         "icon": "swords",
-                        "href": "http://159.65.255.104:3000/sharpsccm-docs/overview"
+                        "href": "/sharpsccm-docs/overview"
                     },
                     {
                         "anchor": "SCCMHunter",
                         "icon": "user-bounty-hunter",
-                        "href": "http://159.65.255.104:3000/sccmhunter-docs/overview"
+                        "href": "/sccmhunter-docs/overview"
                     },
                     {
                         "anchor": "Misconfiguration Manager",
                         "icon": "books",
-                        "href": "http://159.65.255.104:3000/misconfiguration-manager-docs/README"
+                        "href": "/misconfiguration-manager-docs/README"
                     },
                     {
                         "anchor": "Nemesis",
                         "icon": "skull",
-                        "href": "http://159.65.255.104:3000/nemesis-docs/docs/"
+                        "href": "/nemesis-docs/docs/"
                     },
                     {
                         "anchor": "Ghostpack",
                         "icon": "ghost",
-                        "href": "http://159.65.255.104:3000/ghostpack-docs/index"
+                        "href": "/ghostpack-docs/index"
                     },
                     {
                         "anchor": "Atlas Reaper",
                         "icon": "scythe",
-                        "href": "http://159.65.255.104:3000/atlasreaper-docs/overview"
+                        "href": "/atlasreaper-docs/overview"
                     },
                     {
                         "anchor": "Phisherman's Tacklebox",
                         "icon": "fish",
-                        "href": "http://159.65.255.104:3000/cuddlephish-docs/overview"
+                        "href": "/cuddlephish-docs/overview"
                     },
                     {
                         "anchor": "Community",
