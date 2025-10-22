@@ -27,57 +27,79 @@
                     {
                         "anchor": "Mythic",
                         "icon": "hydra",
-                        "href": "mythic-docs/home"
+                        "pages": [
+                            "mythic-docs/home"
+                        ]
                     },
                     {
                         "anchor": "Mythic Agents",
                         "icon": "swords",
-                        "href": "mythic-agents/"
+                        "pages": [
+                            "mythic-agents/"
+                        ]
                     },
                     {
                         "anchor": "GhostWriter",
                         "icon": "ghost",
-                        "href": "ghostwriter-docs/home"
+                        "pages": [
+                            "ghostwriter-docs/home"
+                        ]
                     },
                     {
                         "anchor": "Merlin",
                         "icon": "hat-wizard",
-                        "href": "merlin-docs/introduction"
+                        "pages": [
+                            "merlin-docs/introduction"
+                        ]
                     },
                     {
                         "anchor": "SharpSCCM",
                         "icon": "swords",
-                        "href": "sharpsccm-docs/overview"
+                        "pages": [
+                            "sharpsccm-docs/overview"
+                        ]
                     },
                     {
                         "anchor": "SCCMHunter",
                         "icon": "user-bounty-hunter",
-                        "href": "sccmhunter-docs/overview"
+                        "pages": [
+                            "sccmhunter-docs/overview"
+                        ]
                     },
                     {
                         "anchor": "Misconfiguration Manager",
                         "icon": "books",
-                        "href": "misconfiguration-manager-docs/README"
+                        "pages": [
+                            "misconfiguration-manager-docs/README"
+                        ]
                     },
                     {
                         "anchor": "Nemesis",
                         "icon": "skull",
-                        "href": "nemesis-docs/docs/"
+                        "pages": [
+                            "nemesis-docs/docs/"
+                        ]
                     },
                     {
                         "anchor": "Ghostpack",
                         "icon": "ghost",
-                        "href": "ghostpack-docs/index"
+                        "pages": [
+                            "ghostpack-docs/index"
+                        ]
                     },
                     {
                         "anchor": "Atlas Reaper",
                         "icon": "scythe",
-                        "href": "atlasreaper-docs/overview"
+                        "pages": [
+                            "atlasreaper-docs/overview"
+                        ]
                     },
                     {
                         "anchor": "Phisherman's Tacklebox",
                         "icon": "fish",
-                        "href": "cuddlephish-docs/overview"
+                        "pages": [
+                            "cuddlephish-docs/overview"
+                        ]
                     },
                     {
                         "anchor": "Community",
