@@ -27,79 +27,57 @@
                     {
                         "anchor": "Mythic",
                         "icon": "hydra",
-                        "pages": [
-                            "mythic-docs/home"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/mythic-docs/home"
                     },
                     {
                         "anchor": "Mythic Agents",
                         "icon": "swords",
-                        "pages": [
-                            "mythic-agents/"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/mythic-agents/"
                     },
                     {
                         "anchor": "GhostWriter",
                         "icon": "ghost",
-                        "pages": [
-                            "ghostwriter-docs/home"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/ghostwriter-docs/hom"
                     },
                     {
                         "anchor": "Merlin",
                         "icon": "hat-wizard",
-                        "pages": [
-                            "merlin-docs/introduction"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/merlin-docs/introduction"
                     },
                     {
                         "anchor": "SharpSCCM",
                         "icon": "swords",
-                        "pages": [
-                            "sharpsccm-docs/overview"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/sharpsccm-docs/overview"
                     },
                     {
                         "anchor": "SCCMHunter",
                         "icon": "user-bounty-hunter",
-                        "pages": [
-                            "sccmhunter-docs/overview"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/sccmhunter-docs/overview"
                     },
                     {
                         "anchor": "Misconfiguration Manager",
                         "icon": "books",
-                        "pages": [
-                            "misconfiguration-manager-docs/README"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/misconfiguration-manager-docs/README"
                     },
                     {
                         "anchor": "Nemesis",
                         "icon": "skull",
-                        "pages": [
-                            "nemesis-docs/docs/"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/nemesis-docs/docs/"
                     },
                     {
                         "anchor": "Ghostpack",
                         "icon": "ghost",
-                        "pages": [
-                            "ghostpack-docs/index"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/ghostpack-docs/index"
                     },
                     {
                         "anchor": "Atlas Reaper",
                         "icon": "scythe",
-                        "pages": [
-                            "atlasreaper-docs/overview"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/atlasreaper-docs/overview"
                     },
                     {
                         "anchor": "Phisherman's Tacklebox",
                         "icon": "fish",
-                        "pages": [
-                            "cuddlephish-docs/overview"
-                        ]
+                        "href": "https://demine-83c68b7f.mintlify.app/cuddlephish-docs/overview"
                     },
                     {
                         "anchor": "Community",
