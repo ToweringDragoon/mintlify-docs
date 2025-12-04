@@ -77,7 +77,7 @@
                     {
                         "anchor": "Phisherman's Tacklebox",
                         "icon": "fish",
-                        "href": "https://demine-83c68b7f.mintlify.app/cuddlephish-docs/overview"
+                        "href": "./cuddlephish-docs/overview"
                     },
                     {
                         "anchor": "Community",
